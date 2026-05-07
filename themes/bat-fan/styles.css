@@ -11,6 +11,10 @@ body {
     background-color: black;
 }
 
-p{
+h1,p{
     color: #EA0106;
+}
+
+h1{
+    font-size: 4rem;
 }
